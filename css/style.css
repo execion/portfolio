@@ -472,7 +472,7 @@ body {
   padding: 0.8rem 0;
   color: rgba(240, 240, 240, 0.8);
   font-size: 1.2rem;
-  margin-top: 1rem;
+  margin: 1rem 0 0;
 }
 
 .repository {
@@ -505,7 +505,7 @@ body {
   }
 
   .aside-title {
-    margin: 0;
+    margin: 0 0 .6rem;
   }
 }
 
